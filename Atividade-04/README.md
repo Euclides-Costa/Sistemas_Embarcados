@@ -112,6 +112,9 @@ O projeto pode ser acessado e executado diretamente no Wokwi:
 ## Diagrama Esquemático
 ![Diagrama Esquemático](Diagrama_Esquematico.png)
 
+## Diagrama De Bloco
+![Diagrama De Bloco](Diagrama_De_Bloco.png)
+
 
 ## Tecnologias Utilizadas
 
