@@ -108,6 +108,11 @@ O projeto pode ser acessado e executado diretamente no Wokwi:
 
 **[Acessar simulação no Wokwi](https://wokwi.com/projects/474784787467682817)**
 
+
+## Diagrama Esquemático
+![Diagrama Esquemático](Diagrama_Esquematico.png)
+
+
 ## Tecnologias Utilizadas
 
 * **ESP32-S3**
