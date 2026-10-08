@@ -46,4 +46,4 @@ O projeto pode ser acessado e executado diretamente no Wokwi:
 
 ### Projeto na placa
 
-![Projeto na Placa](Projeto_Na_Placa.png)
+![Projeto na Placa](Projeto_Na_Placa.jpeg)
